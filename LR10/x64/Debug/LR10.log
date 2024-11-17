@@ -1,0 +1,4 @@
+﻿  LR10.cpp
+D:\Antonio\Programing_Project\C++\LR10\LR10.cpp(40,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Antonio\Programing_Project\C++\LR10\LR10.cpp(43,24): warning C4101: 'p': unreferenced local variable
+  LR10.vcxproj -> D:\Antonio\Programing_Project\C++\LR10\x64\Debug\LR10.exe
