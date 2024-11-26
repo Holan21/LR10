@@ -4,6 +4,8 @@
 
 using namespace std;
 
+//шаблони функції
+
 int* generate_array(int length);
 int* get_from_user_array(int length);
 void show_array(int arr[],int length);
@@ -11,7 +13,6 @@ void task(int* arr, int length, int p);
 
 int main()
 {
-	//Змінювання кодировки  
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 
