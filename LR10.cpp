@@ -3,7 +3,7 @@
 #include <math.h>
 
 using namespace std;
-
+//test
 int* generate_array(int length);
 int* get_from_user_array(int length);
 void show_array(int arr[],int length);
